@@ -51,9 +51,19 @@ how to integrate stores:
 ![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-43-22.png)  
 ![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578702/Screenshot_from_2018-09-10_15-44-13.png) 
 
-Here we have integrated a store we were using for testing purpose.
+### Here we have integrated a store we were using for testing purpose.
 
 ![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-44-30.png)  
-![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578702/Screenshot_from_2018-09-10_15-44-39.png)    
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578702/Screenshot_from_2018-09-10_15-44-39.png)  
+
+### How shopify works we have integrated thescalelabs.myshopify.com with scaleship  
+we have setup an shopify stores name thescalelabs and created a order there: 
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536579610/Screenshot_from_2018-09-10_17-09-19.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536579610/Screenshot_from_2018-09-10_17-09-33.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536579610/Screenshot_from_2018-09-10_17-09-54.png)  
+here we get the store result on the top:   
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-44-30.png)  
+
+### Complete shipment history: 
 ![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-45-07.png)  
 
