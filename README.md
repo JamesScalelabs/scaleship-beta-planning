@@ -9,15 +9,23 @@ coolTRIP@4321
 ### Current Flow:     
 login/signup:  
 ![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578700/Screenshot_from_2018-09-10_15-06-53.png)  
-![alt text](https://ibb.co/dojMLU)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578699/Screenshot_from_2018-09-10_15-08-29.png)  
 
 DashBoard:  
-![alt text](https://ibb.co/imaiZp)  
-![alt text](https://ibb.co/cFLvfU)  
-![alt text](https://ibb.co/mGEcup)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578700/Screenshot_from_2018-09-10_15-20-17.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-20-28.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578700/Screenshot_from_2018-09-10_15-20-41.png)  
 
 Quotes:  
-![alt text](https://ibb.co/cuoFfU)  
+create Quotes flow:
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-20-48.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578702/Screenshot_from_2018-09-10_15-51-36.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578699/Screenshot_from_2018-09-10_15-51-56.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578700/Screenshot_from_2018-09-10_15-52-35.png) 
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-52-39.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578702/Screenshot_from_2018-09-10_15-49-32.png)  
+
+
 here address mapping work is not complete according to all the provider requirements    
 some address for which all servies are working:   
 ````
@@ -38,10 +46,14 @@ some address for which all servies are working:
    pincode: 10021
 ````
 ### Stores:  
-![alt text](https://ibb.co/cuoFfU)  
-![alt text](https://ibb.co/i9g7AU)  
-![alt text](https://ibb.co/gfXEqU)  
-![alt text](https://ibb.co/n1wJH9)    
-![alt text](https://ibb.co/ivZ5x9)  
-![alt text](https://ibb.co/bGxEqU)  
+how to integrate stores: 
+
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-43-22.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578702/Screenshot_from_2018-09-10_15-44-13.png) 
+
+Here we have integrated a store we were using for testing purpose.
+
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-44-30.png)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578702/Screenshot_from_2018-09-10_15-44-39.png)    
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578701/Screenshot_from_2018-09-10_15-45-07.png)  
 
