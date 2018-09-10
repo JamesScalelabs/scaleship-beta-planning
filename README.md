@@ -8,7 +8,7 @@ coolTRIP@4321
 
 ### Current Flow:     
 login/signup:  
-![alt text](https://ibb.co/jEKo0U)  
+![alt text](https://res.cloudinary.com/cooltrip/image/upload/v1536578700/Screenshot_from_2018-09-10_15-06-53.png)  
 ![alt text](https://ibb.co/dojMLU)  
 
 DashBoard:  
